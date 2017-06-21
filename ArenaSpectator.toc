@@ -1,0 +1,10 @@
+## Interface: 20403
+## Title: Arena Spectator
+## Version: 2.1
+## SavedVariables: teamname, teamscore, tournamentMode
+
+## Title-ruRU: Спектатор Арены
+## Notes-ruRU: Аддон наблюдателя арены.
+
+ArenaSpectator.lua
+combatfeedback.lua
